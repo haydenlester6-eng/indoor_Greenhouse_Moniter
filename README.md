@@ -7,10 +7,10 @@ Documenting the physical ecosystems currently integrated into the IoT network.
 ### Carnivorous Plants
 ![Sarracenia](Sarracenia.jpg)
 ![Nepenthes](Nepenthes.jpg)
-![Dionaea_Muscipula](ionaea_Muscipula.jpg)
+![Dionaea_Muscipula](Dionaea_Muscipula.jpg)
 
 ### Tropical Aroids
-![Monstera Thai Constellation](Monstera_Thai_Constellation.jpg)
+![Monstera_Thai_Constellation](Monstera_Thai_Constellation.jpg)
 ![Monstera Deliciosa](Monstera_Deliciosa.jpg)
 
 
