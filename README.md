@@ -5,15 +5,26 @@ A Linux-based IoT network using ESP32 and Raspberry Pi to monitor aquatic parame
 Documenting the physical ecosystems currently integrated into the IoT network.
 
 ### Carnivorous Plants
+
+Sarracenia / Venus Flytrap
 ![Sarracenia](Sarracenia.jpg)
+
+Nepenthes / Tropical Pitcher Plant
 ![Nepenthes](Nepenthes.jpg)
-![Dionaea_Muscipula](Dionaea_Muscipula.jpg)
+
+Dionaea Muscipula / Bog Pitcher Plant
+![Dionaea Muscipula](Dionaea_Muscipula.jpg)
 
 ### Tropical Aroids
-![Monstera_Thai_Constellation](Monstera_Thai_Constellation.jpg)
+
+Monstera Thai Constellation:
+![Monstera Thai Constellation](Monstera_Thai_Constellation.jpg)
+
+Monstera Deliciosa:
 ![Monstera Deliciosa](Monstera_Deliciosa.jpg)
 
-
+Monstera Adansonii:
+![Monstera Adansoii](Monstera_Adansoii.jpg)
 
 ### Aquaruim
 ![Planted Betta Tank](Fish_Tank.jpg)
