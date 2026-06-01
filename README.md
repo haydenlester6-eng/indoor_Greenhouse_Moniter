@@ -4,9 +4,16 @@ A Linux-based IoT network using ESP32 and Raspberry Pi to monitor aquatic parame
 ## Monitored Environments
 Documenting the physical ecosystems currently integrated into the IoT network.
 
-### Terrestrial Aroid & Carnivorous Zones
-![Sarracenia & Venus Flytraps](Sarracenia.jpg)
-![Monstera Thai Constellation](Monstera_Thai_Constellation.jpg)
+### Carnivorous Plants
+![Sarracenia](Sarracenia.jpg)
+![Nepenthes](Nepenthes.jpg)
+![Dionaea_Muscipula](ionaea_Muscipula.jpg)
 
-### Aquatic System
+### Tropical Aroids
+![Monstera Thai Constellation](Monstera_Thai_Constellation.jpg)
+![Monstera Deliciosa](Monstera_Deliciosa.jpg)
+
+
+
+### Aquaruim
 ![Planted Betta Tank](Fish_Tank.jpg)
