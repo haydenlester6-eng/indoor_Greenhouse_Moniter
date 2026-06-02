@@ -24,7 +24,7 @@ Monstera Deliciosa:
 ![Monstera Deliciosa](Monstera_Deliciosa.jpg)
 
 Monstera Adansonii:
-![Monstera Adansoii](Monstera_Adansoii.jpg)
+![Monstera Adansoii](Monstera_Adansonii.jpg)
 
 ### Aquaruim
 ![Planted Betta Tank](Fish_Tank.jpg)
