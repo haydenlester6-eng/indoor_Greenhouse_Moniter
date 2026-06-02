@@ -6,13 +6,13 @@ Documenting the physical ecosystems currently integrated into the IoT network.
 
 ### Carnivorous Plants
 
-Sarracenia / Venus Flytrap
+Sarracenia / Venus Flytrap:
 ![Sarracenia](Sarracenia.jpg)
 
-Nepenthes / Tropical Pitcher Plant
+Nepenthes / Tropical Pitcher Plant:
 ![Nepenthes](Nepenthes.jpg)
 
-Dionaea Muscipula / Bog Pitcher Plant
+Dionaea Muscipula / Bog Pitcher Plant:
 ![Dionaea Muscipula](Dionaea_Muscipula.jpg)
 
 ### Tropical Aroids
